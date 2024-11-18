@@ -251,9 +251,6 @@ We proceed on the assumption that the target account has a pre-existing data sou
 > [!WARNING]  
 > Going to a previous version of a dashboard after the datasets have been updated, can result in inconsistent behaviour and sometimes even break the dashboard.
 
-## Conclusion
-This repo equips you to programmatically migrate QuickSight objects, like dashboards, between accounts, streamlining deployments and minimizing manual effort. By following the steps outlined here, you can efficiently transfer your dashboards from source (e.g., dev) to target (e.g., prod) environments, as required.
-
 ## References
 
 1. https://aws.amazon.com/blogs/big-data/migrate-amazon-quicksight-across-aws-accounts/
