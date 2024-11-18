@@ -84,7 +84,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down all the dataset IDs that need to be migrated to the target account. You can find these details by referring to the analyses in the source account, either through the console or by using our script.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file get_data_sets.py, checked out on your workstation.
+3. Open the file [get_data_sets.py](scripts/get_data_sets.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 6. The script creates a folder named qs_extracts and dumps files into it. These files are crucial for migrating datasets
