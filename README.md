@@ -52,6 +52,7 @@ At this juncture check if the analysis is already available on the target accoun
     >Refer section *Creating and Updating Analyses* for more details.
 
 7. **Dashboard Operations**: `Where? Target Account` 
+
 Similar to step 6, this step checks if the dashboard exists in the target environment.
 - If the dashboard exists, update the dashboard using the ARN of the analysis from step 6
 - If the dashboard doesn't exist, publish the dashboard using the ARN of the analysis from step 6
