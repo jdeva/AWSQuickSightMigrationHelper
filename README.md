@@ -4,7 +4,8 @@ A collection of scripts to enable faster QuickSight Migrations
 ## Introduction
 AWS QuickSight is a cloud-based business intelligence (BI) tool that lets users explore data, create reports, and gain insights. Compared to traditional BI tools, QuickSight offers easier integration with other AWS services, faster deployment, and built-in AI/ML capabilities. However, migrating dashboards between accounts in QuickSight requires scripting or APIs, unlike the simpler promotion features in other tools. This guide simplifies the process of programmatically migrating QuickSight objects (like dashboards) from a development (dev) environment to a production (prod) environment.
 
->Please read this document thoroughly before using the scripts. Additionally, be sure to read the documentation within the Python scripts.  
+> [!TIP]  
+> Please read this document thoroughly before using the scripts. Additionally, be sure to read the documentation within the Python scripts.  
 
 ## Migrating QuickSight dashboards
 

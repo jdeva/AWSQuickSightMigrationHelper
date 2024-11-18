@@ -1,0 +1,9 @@
+[
+  {
+      "DataSetPlaceholder": "data_set_name_1",
+      "DataSetArn": "data_set_arn_1"
+  }, {
+      "DataSetPlaceholder": "data_set_name_2",
+      "DataSetArn": "data_set_arn_2"
+  }
+]
