@@ -97,7 +97,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
     > This can be the same list as in Get DataSets section, or a subset.
 
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file create_data_sets.py, checked out on your workstation.
+3. Open the file [create_data_set.py](scripts/create_data_set.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -112,7 +112,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
     > This can be the same list as in Get DataSets section, or a subset.
 
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file update_data_sets.py, checked out on your workstation.
+3. Open the file [update_data_set.py](scripts/update_data_set.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -129,7 +129,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down the analysis ID that needs to be replicated in the target account.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file create_template.py, checked out on your workstation.
+3. Open the file [create_template.py](scripts/create_template.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -167,7 +167,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down the analysis ID that needs to be replicated in the target account.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file update_template.py, checked out on your workstation.
+3. Open the file [update_template.py](scripts/update_template.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -188,7 +188,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down the dataset IDs and dataset names, belonging to the analysis that needs to be replicated in the target account.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file create_analysis.py, checked out on your workstation.
+3. Open the file [create_analysis.py](scripts/create_analysis.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -202,7 +202,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down the dataset IDs and dataset names, belonging to the analysis that needs to be replicated in the target account.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file update_analysis.py, checked out on your workstation.
+3. Open the file [update_analysis.py](scripts/update_analysis.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -219,7 +219,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down the dataset IDs and dataset names, belonging to the analysis that needs to be replicated in the target account.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file create_dashboard.py, checked out on your workstation.
+3. Open the file [create_dashboard.py](scripts/create_dashboard.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -229,7 +229,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 
 1. Note down the dataset IDs and dataset names, belonging to the analysis that needs to be replicated in the target account.
 2. Ensure account credentials are available at `~/.aws/credentials` file.
-3. Open the file update_dashboard.py, checked out on your workstation.
+3. Open the file [update_dashboard.py](scripts/update_dashboard.py), checked out on your workstation.
 4. Pass the required inputs as mentioned in the script documentation.
 5. Execute the script.
 
@@ -241,7 +241,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 `Where? Target Account`
 
 1. Ensure account credentials are available at `~/.aws/credentials` file.
-2. Open the file publish_dashboard.py, checked out on your workstation.
+2. Open the file [publish_dashboard.py](scripts/publish_dashboard.py), checked out on your workstation.
 3. Pass the required inputs as mentioned in the script documentation.
 4. Execute the script.
 
