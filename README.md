@@ -136,7 +136,7 @@ We proceed on the assumption that the target account has a pre-existing data sou
 > Upon successful execution, note the ARN of the template, this will be needed in the subsequent steps.
 
 > [!IMPORTANT]  
-> Post creation steps:  
+> ### Post creation steps:  
 > Ensure template is in CREATION_SUCCESSFUL state.  
 >         aws quicksight describe-template --aws-account-id source_account_id --template-id "your_template_id"  
 > Prepare a json file TemplatePermissions.json in the root of the current directory, with permissions for the template. Content as below.  
