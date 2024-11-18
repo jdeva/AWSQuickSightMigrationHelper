@@ -257,3 +257,7 @@ This repo equips you to programmatically migrate QuickSight objects, like dashbo
 ## References
 
 1. https://aws.amazon.com/blogs/big-data/migrate-amazon-quicksight-across-aws-accounts/
+
+## Questions?
+
+Feel free to open a discussion thread. Thanks!
